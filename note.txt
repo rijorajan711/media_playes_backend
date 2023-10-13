@@ -1,0 +1,12 @@
+crete a folder for server
+crete a package.json file by ::npm init -y
+install json-server to run json file ::npm i joson-server
+crete .gitignore in this folder
+crete a jsonfile ::db.json ,to store jsondata
+crete index.js to define json server
+    -import json-server in index.js
+    -crete a server for  our app
+    -set up path/route from json file
+    -crete middleware used by json
+    -set up port fir running server
+    -use middleware and router
